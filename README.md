@@ -9,6 +9,7 @@ Standard-compliant (e.g., ERC-20, ERC-721, ERC-1155)
 Deployed on Ethereum and compatible EVM chains
 Ownership controls with role-based access (if applicable)
 Events emitted for all state-changing functions
+
 📦 Contracts
 Contract
 Description
@@ -32,5 +33,4 @@ Uses OpenZeppelin audited libraries
 No known vulnerabilities
 Contract is non-upgradeable (or specify upgrade mechanism if applicable)
 Ownership can be transferred or renounced (if applicable)
-📄 License
-MIT License
+
